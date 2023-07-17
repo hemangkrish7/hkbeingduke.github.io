@@ -1,0 +1,647 @@
+.homepage {
+  background-color: #efefef;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.homepage .div {
+  background-color: #efefef;
+  border: 1px none;
+  height: 982px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.homepage .navigation-sidebar {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+  box-shadow: 2px 4px 4px #00000040;
+  height: 1024px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: -1px;
+  width: 252px;
+}
+
+.homepage .overlap {
+  height: 6241px;
+  left: -3132px;
+  position: relative;
+  top: -3031px;
+  width: 6448px;
+}
+
+.homepage .navigation-menu-px {
+  left: 3148px !important;
+  position: absolute !important;
+  top: 3070px !important;
+}
+
+.homepage .default-monochrome {
+  height: 6241px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6448px;
+}
+
+.homepage .element {
+  height: 60px;
+  left: 5892px;
+  position: absolute;
+  top: 3169px;
+  width: 297px;
+}
+
+.homepage .overlap-group {
+  height: 982px;
+  left: 3132px;
+  position: absolute;
+  top: 3032px;
+  width: 253px;
+}
+
+.homepage .element-db-a-ae {
+  height: 982px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.homepage .window-panel {
+  background-color: #ffffff;
+  height: 310px;
+  left: 1px;
+  position: absolute;
+  top: 123px;
+  width: 252px;
+}
+
+.homepage .overlap-group-wrapper {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.homepage .overlap-group-2 {
+  background-color: #ffffff;
+  height: 51px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 254px;
+}
+
+.homepage .label {
+  color: #3887ea;
+  font-family: var(--subtitle-2-font-family);
+  font-size: var(--subtitle-2-font-size);
+  font-style: var(--subtitle-2-font-style);
+  font-weight: var(--subtitle-2-font-weight);
+  left: 70px;
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  line-height: var(--subtitle-2-line-height);
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.homepage .img {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.homepage .overlap-wrapper {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 252px;
+}
+
+.homepage .text-wrapper {
+  color: #1e1e1e;
+  font-family: var(--subtitle-2-font-family);
+  font-size: var(--subtitle-2-font-size);
+  font-style: var(--subtitle-2-font-style);
+  font-weight: var(--subtitle-2-font-weight);
+  left: 71px;
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  line-height: var(--subtitle-2-line-height);
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.homepage .crisis-alert {
+  height: 25px;
+  left: 29px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.homepage .database {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 98px;
+  width: 252px;
+}
+
+.homepage .label-2 {
+  color: #1e1e1e;
+  font-family: var(--subtitle-2-font-family);
+  font-size: var(--subtitle-2-font-size);
+  font-style: var(--subtitle-2-font-style);
+  font-weight: var(--subtitle-2-font-weight);
+  left: 70px;
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  line-height: var(--subtitle-2-line-height);
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.homepage .div-wrapper {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 147px;
+  width: 252px;
+}
+
+.homepage .label-3 {
+  color: #1e1e1e;
+  font-family: var(--subtitle-2-font-family);
+  font-size: var(--subtitle-2-font-size);
+  font-style: var(--subtitle-2-font-style);
+  font-weight: var(--subtitle-2-font-weight);
+  left: 71px;
+  letter-spacing: var(--subtitle-2-letter-spacing);
+  line-height: var(--subtitle-2-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.homepage .settings {
+  height: 25px;
+  left: 29px;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.homepage .support-desk {
+  background-color: #ffffff;
+  height: 171px;
+  left: 1px;
+  position: absolute;
+  top: 809px;
+  width: 252px;
+}
+
+.homepage .overlap-2 {
+  height: 98px;
+  position: relative;
+}
+
+.homepage .fiber-manual-record {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.homepage .support-agent {
+  height: 24px;
+  left: 30px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.homepage .group {
+  height: 49px;
+  left: 54px;
+  position: absolute;
+  top: 25px;
+  width: 152px;
+}
+
+.homepage .dfd {
+  height: 22px;
+  left: 46px;
+  position: absolute;
+  top: 14px;
+  width: 106px;
+}
+
+.homepage .logo-copy {
+  height: 49px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.homepage .overlap-3 {
+  height: 949px;
+  left: 320px;
+  position: absolute;
+  top: -1px;
+  width: 1222px;
+}
+
+.homepage .overlap-4 {
+  height: 949px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1192px;
+}
+
+.homepage .grid {
+  height: 560px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 309px;
+}
+
+.homepage .grid-2 {
+  height: 299px;
+  left: 258px;
+  position: absolute;
+  top: 52px;
+  width: 338px;
+}
+
+.homepage .grid-3 {
+  height: 560px;
+  left: 773px;
+  position: absolute;
+  top: 381px;
+  width: 308px;
+}
+
+.homepage .grid-4 {
+  height: 299px;
+  left: 108px;
+  position: absolute;
+  top: 516px;
+  width: 338px;
+}
+
+.homepage .grid-5 {
+  height: 560px;
+  left: 516px;
+  position: absolute;
+  top: 22px;
+  width: 308px;
+}
+
+.homepage .group-wrapper {
+  height: 89px;
+  left: 247px;
+  position: absolute;
+  top: 860px;
+  width: 637px;
+}
+
+.homepage .group-2 {
+  height: 56px;
+  position: relative;
+  top: 14px;
+  width: 601px;
+}
+
+.homepage .group-3 {
+  height: 56px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 506px;
+}
+
+.homepage .div-2 {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.homepage .overlap-group-3 {
+  height: 56px;
+  position: relative;
+}
+
+.homepage .FAB-standard {
+  background-color: #ffffff !important;
+  border: 1px solid !important;
+  border-color: #3887ea !important;
+  width: unset !important;
+}
+
+.homepage .mop-instance {
+  left: 16px !important;
+  top: 14px !important;
+}
+
+.homepage .overlap-5 {
+  height: 56px;
+  left: 90px;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.homepage .FAB-standard-wrapper {
+  height: 56px;
+}
+
+.homepage .one-standard {
+  background-color: #ffffff !important;
+  border: 1px solid !important;
+  border-color: #3887ea !important;
+  width: 57px !important;
+}
+
+.homepage .img-2 {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.homepage .overlap-6 {
+  height: 56px;
+  left: 179px;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.homepage .overlap-7 {
+  height: 56px;
+  left: 269px;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.homepage .overlap-8 {
+  height: 56px;
+  left: 359px;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.homepage .overlap-9 {
+  height: 56px;
+  left: 449px;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.homepage .apps {
+  height: 24px;
+  left: 17px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.homepage .upper-right-side {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  left: 805px;
+  padding: 30px 47px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.homepage .frame {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 30px;
+  height: 30px;
+  min-width: 197px;
+  overflow: hidden;
+  position: relative;
+}
+
+.homepage .text-wrapper-2 {
+  color: #949292;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.homepage .search {
+  height: 17px;
+  left: 170px;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}
+
+.homepage .img-3 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.homepage .zoom-buttons {
+  height: 174px;
+  left: 1137px;
+  position: absolute;
+  top: 627px;
+  width: 85px;
+}
+
+.homepage .zoom-wrapper {
+  height: 145px;
+  left: 12px;
+  position: relative;
+  top: 11px;
+  width: 56px;
+}
+
+.homepage .zoom {
+  height: 145px;
+}
+
+.homepage .overlap-10 {
+  height: 145px;
+  position: relative;
+  width: 56px;
+}
+
+.homepage .overlap-group-4 {
+  height: 145px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.homepage .group-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #3887ea;
+  box-shadow: 0px 2px 4px #00000033, 0px 1px 10px #0000001f, 0px 4px 5px #00000024;
+  height: 56px;
+  left: -44px;
+  position: absolute;
+  top: 44px;
+  transform: rotate(-90deg);
+  width: 145px;
+}
+
+.homepage .zoom-out {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 60px;
+  width: 24px;
+}
+
+.homepage .zoom-in {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 23px;
+  width: 24px;
+}
+
+.homepage .line {
+  height: 1px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 30px;
+}
+
+.homepage .line-2 {
+  height: 1px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 94px;
+  width: 30px;
+}
+
+.homepage .magnification-large {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 102px;
+  width: 24px;
+}
+
+.homepage .zoom-2 {
+  height: 167px;
+  left: 2915px;
+  position: absolute;
+  top: 1096px;
+  width: 77px;
+}
+
+.homepage .group-5 {
+  height: 145px;
+  left: 9px;
+  position: relative;
+  top: 11px;
+  width: 56px;
+}
+
+.homepage .zoom-3 {
+  height: 145px;
+  position: relative;
+}
+
+.homepage .group-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #3887ea;
+  border-radius: 40px;
+  box-shadow: 0px 2px 4px #00000033, 0px 1px 10px #0000001f, 0px 4px 5px #00000024;
+  height: 56px;
+  left: -44px;
+  position: absolute;
+  top: 44px;
+  transform: rotate(-90deg);
+  width: 145px;
+}
+
+.homepage .zoom-out-2 {
+  height: 24px;
+  left: -6290px;
+  position: absolute;
+  top: -3989px;
+  width: 24px;
+}
+
+.homepage .zoom-in-2 {
+  height: 24px;
+  left: -6290px;
+  position: absolute;
+  top: -4026px;
+  width: 24px;
+}
+
+.homepage .magnification-large-2 {
+  height: 24px;
+  left: -6290px;
+  position: absolute;
+  top: -3947px;
+  width: 24px;
+}
+
+.homepage .line-3 {
+  height: 1px;
+  left: -6293px;
+  object-fit: cover;
+  position: absolute;
+  top: -3996px;
+  width: 30px;
+}
+
+.homepage .line-4 {
+  height: 1px;
+  left: -6293px;
+  object-fit: cover;
+  position: absolute;
+  top: -3954px;
+  width: 30px;
+}

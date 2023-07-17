@@ -1,0 +1,16 @@
+.element-standard {
+  background-color: var(--x02-secondary200);
+  border-radius: 50px;
+  box-shadow: var(--04-dp);
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.element-standard .icon {
+  height: 24px !important;
+  left: 16px !important;
+  position: absolute !important;
+  top: 16px !important;
+  width: 24px !important;
+}

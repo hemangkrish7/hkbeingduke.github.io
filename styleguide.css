@@ -1,0 +1,17 @@
+:root {
+  --04-dp: 0px 2px 4px 0px rgba(0, 0, 0, 0.2), 0px 1px 10px 0px rgba(0, 0, 0, 0.12), 0px 4px 5px 0px rgba(0, 0, 0, 0.14);
+  --button-font-family: "Roboto-Medium", Helvetica;
+  --button-font-size: 14px;
+  --button-font-style: normal;
+  --button-font-weight: 500;
+  --button-letter-spacing: 1.25px;
+  --button-line-height: 16px;
+  --subtitle-2-font-family: "Roboto-Medium", Helvetica;
+  --subtitle-2-font-size: 14px;
+  --subtitle-2-font-style: normal;
+  --subtitle-2-font-weight: 500;
+  --subtitle-2-letter-spacing: 0.10000000149011612px;
+  --subtitle-2-line-height: 24px;
+  --x00-on-surface-high-emphasis: rgba(0, 0, 0, 0.87);
+  --x02-secondary200: rgba(3, 218, 197, 1);
+}

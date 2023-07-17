@@ -1,0 +1,13 @@
+.navigation-menu {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.navigation-menu .color {
+  height: 12px;
+  left: 3px;
+  position: absolute;
+  top: 6px;
+  width: 18px;
+}
